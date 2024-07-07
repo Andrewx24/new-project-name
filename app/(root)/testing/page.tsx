@@ -27,7 +27,7 @@ export default function Page() {
         </>
       ) : (
         <div>
-          <h1>Hang tight! hellooo</h1>
+          <h1>Hang tight! </h1>
         </div>
       )}
     </main>
