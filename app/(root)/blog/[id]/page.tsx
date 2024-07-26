@@ -1,9 +1,3 @@
-
-
-export default function PAGE() { 
-    return (
-        <div>
-            <h1> Blog  ID PAGE </h1>
-        </div>
-    )
-}
+export default function Page({ params }: { params: { slug: string } }) {
+    return <div>My Post: {params.slug}</div>
+  }

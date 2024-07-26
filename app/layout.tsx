@@ -2,8 +2,7 @@ import type { Metadata } from "next";
 import {inter} from '@/ui/fonts';
 import   '@/styles/globals.css'
 
-import Header from "@/ui/componets/Header";
-import Footer from "@/ui/componets/Footer";
+
 
 
 
