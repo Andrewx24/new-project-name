@@ -31,7 +31,13 @@ const Header = () => {
             <span className="mx-4 text-white hover:text-blue-500 transition-colors duration-300">
                 Ask AI
               </span>
+            <Link href="/blog">
+              <span className="mx-4 text-white hover:text-blue-500 transition-colors duration-300">
+                Blog
+              </span>
             
+            </Link>
+           
             </Link>
           </div>
           <div className="flex items-end">
